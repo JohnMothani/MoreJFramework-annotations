@@ -2,7 +2,7 @@ package com.morethani.annotation;
 
 
 
-import com.morethani.enums.EnumSearchFilterType;
+import com.morethani.annotation.enums.EnumSearchFilterType;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -2,7 +2,7 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Getter;
 import lombok.Setter;
 import com.morethani.annotation.SearchFilter;
-import com.morethani.enums.EnumSearchFilterType;
+import com.morethani.annotation.enums.EnumSearchFilterType;
 
 import java.time.Instant;
 

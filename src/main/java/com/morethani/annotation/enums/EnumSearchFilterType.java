@@ -1,4 +1,4 @@
-package com.morethani.enums;
+package com.morethani.annotation.enums;
 
 import lombok.Getter;
 
